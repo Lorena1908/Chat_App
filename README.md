@@ -1,6 +1,5 @@
 # Chat App
-This is a chat app I made following a tutorial from Tech with Tim's Youtube Channel
+This is a simple chat app made with tkinter as teh GUI, and other modules for the overall working of the program
 
 ## Setup
-1. Install the required packages using the following command: `pip install -r requirements.txt`
-2. Type `python main.py` on the command line to run the program
+Type `python main.py` on the command line to run the program
